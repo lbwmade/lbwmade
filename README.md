@@ -2,7 +2,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);LBW祝您天天快乐!&center=true&size=27)](https://git.io/typing-svg)
+  <--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);LBW祝您天天快乐!&center=true&size=27)](https://git.io/typing-svg)-->
 
 
   <!-- knock code pictures 敲代码的图片 -->
@@ -66,7 +66,7 @@
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
-  </div>
+</div>
   <!--  skill badge 技能徽章 -->
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
