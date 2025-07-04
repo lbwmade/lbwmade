@@ -1,7 +1,7 @@
 <div align="center">
     <!-- dynamic typing effect 动态打字效果 -->
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%22Hello%2C%20Welcome%22;Here%20is%20my%20profile!&center=true&size=27)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!%20Welcome!;Here%20is%20my%20Github%20profile!&center=true&size=27)](https://git.io/typing-svg)
 
 
   <!-- for beauty 留个空行好看点 -->
